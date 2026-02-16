@@ -1,5 +1,5 @@
-import tensorflow as tf
-import numpy as np
-import keras
+nombre = "CAmilo"
+apellido = "Rodri"
 
-
+saludos = "Hola "+ nombre+ " "+ apellido
+print(saludos)
