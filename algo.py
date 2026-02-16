@@ -1,5 +1,5 @@
 nombre = "Mhylo"
-apellido = "gutty"
+Novia = "Susi"
 
 saludos = "Hola "+ nombre+ " "+ apellido
 print(saludos)
